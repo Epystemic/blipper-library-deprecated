@@ -1,3 +1,6 @@
+> [!WARNING]
+> This library is deprecated. Checkout [https://github.com/Epystemic/blipper-library](https://github.com/Epystemic/blipper-library) for the updated one !
+
 # Blipper-library
 <p align="center">
   <img src="scripts/icon.png" alt="Icon" width="100" height="100">
